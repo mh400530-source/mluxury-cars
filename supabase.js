@@ -1,4 +1,4 @@
-const SUPABASE_URL = "https://YOUR-PROJECT.supabase.co";
+const SUPABASE_URL = "https://giiyefmmjjspapyqghoh.supabase.co";
 
 const SUPABASE_ANON_KEY =
   "sb_publishable_1ufOqyB4Bmg7A_bKJ0dqBw_rbL8jBfE";
